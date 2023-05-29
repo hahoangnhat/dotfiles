@@ -2,5 +2,5 @@ default:
   overwrite: 'true'
 clean: ['~']
 links:
-  ~/zsh:
+  ~/shell:
   ~/.zshrc:
