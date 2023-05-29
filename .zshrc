@@ -1,2 +1,2 @@
 # Alias
-source ~/zsh/aliases.sh
+source ~/shell/aliases.sh
