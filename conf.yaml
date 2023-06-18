@@ -4,3 +4,4 @@ clean: ['~']
 links:
   ~/shell:
   ~/.zshrc:
+  ~/.zprofile:
